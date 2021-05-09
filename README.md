@@ -50,9 +50,9 @@ These instructions will get you a copy of the project up and running on your loc
         *   [pyserial](https://pyserial.readthedocs.io/en/latest/pyserial.html) v3.4
         *   [time](https://docs.python.org/3/library/time.html) v3.7
         *   [pyaudio](https://pypi.org/project/PyAudio/) v0.2.11
-        *   [wave](https://docs.python.org/3/library/wave.html) 3.4
-        *   [array](https://docs.python.org/3/library/array.html) 3.9
-        *   [statistics](https://docs.python.org/3/library/statistics.html) 3.4
+        *   [wave](https://docs.python.org/3/library/wave.html) v3.4
+        *   [array](https://docs.python.org/3/library/array.html) v3.9
+        *   [statistics](https://docs.python.org/3/library/statistics.html) v3.4
 *   A LEGO SPIKE PRIME Kit [Purchase One Here.](https://education.lego.com/en-us/products/lego-education-spike-prime-set/45678#spike%E2%84%A2-prime)
 
     *   The LEGO SPIKE PRIME kit IDE should be downloaded to update the firmware [here](https://education.lego.com/en-us/downloads/spike-prime/software)
@@ -65,7 +65,8 @@ Simply download the files in this repository and first run the code on the WIO T
 ## Authors
 
 *   **Sawyer Bailey Paccione** - _Raspberry PI CODE, SPIKE CODE_ - [Portfolio](http://sawyerbaileypaccione.tech/)
+*   **Olif Soboka Hordofa**    - _Raspberry PI CODE, SPIKE CODE_ - [Portfolio](https://olifsoboka.wixsite.com/my-site1)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/paccionesawyer/web-pi-car/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/paccionesawyer/dancing-car/blob/main/LICENSE) file for details
